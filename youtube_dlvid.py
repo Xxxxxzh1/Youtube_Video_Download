@@ -1,7 +1,7 @@
 import os
 import xlrd
 
-excel_list = ['video_download_failed.xlsx']
+excel_list = ['video_download.xlsx']
 vid_list = []
 
 
